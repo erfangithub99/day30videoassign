@@ -1,0 +1,12 @@
+header {
+    box-shadow: 1px 1px 7px -3px black;
+}
+.header-logo img{
+    width: 68px;
+    height: auto;
+    display: inline-block;
+    margin-left: 9px;
+}
+.bannar-img {
+    height: 550px;
+}
